@@ -1,0 +1,57 @@
+.btn-color {
+    background-color: #0e1c36;
+    color: #fff;
+
+}
+
+.profile-image-pic {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+
+
+.cardbody-color {
+    background-color: #ebf2fa;
+}
+
+a {
+    text-decoration: none;
+}
+
+#listeaafficher {
+    margin-bottom: 10rem;
+}
+
+#test {
+    position: relative;
+}
+
+.password-icon {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    width: 20px;
+    color: #8a2222;
+    transition: all 0.2s;
+}
+
+.password-icon:hover {
+    cursor: pointer;
+    color: #8d47ff;
+}
+#return{
+    margin-top: 3rem;
+}
+/* .password-icon .feather-eye-off {
+    display: none;
+} */
+#deco{
+    border: none;
+    text-decoration: none;
+    color: #8a2222;
+}
